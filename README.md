@@ -8,6 +8,12 @@ The game features a **text-based ASCII art style**, rendering a rotating **3D to
 
 ---
 
+🔗 Video Trailer
+
+https://youtu.be/qhsgk105aJY
+
+---
+
 ## 📖 Game Overview
 **Donut** is a **terminal-based ASCII graphics demo** that simulates a rotating 3D donut using mathematical transformations. It continuously updates and redraws the torus using trigonometric functions to create an animated effect.
 
